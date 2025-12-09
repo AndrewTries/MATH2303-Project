@@ -2,6 +2,9 @@
 - Andrew Krawiec akraw904@mtroyal.ca
 - Mojib Azizi
 
+# Contacts
+Email: maziz731@mtroyal.ca  (Mojib)
+
 ## Math 2303 Final Assignment
 A MLP Regression analysis on the factors affecting weather a tumor is benign or cancerous.
 
